@@ -21,33 +21,33 @@ Before you begin, ensure you have the following installed:
 
 ### Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/atomic-blog.git
-   ```
-   Replace your-username with your GitHub username.
+**Clone the repository**:
 
-## Available Scripts
+```bash
+git clone https://github.com/your-username/atomic-blog.git
+```
 
-Navigate to the project directory:
+Replace your-username with your GitHub username
 
-bash
+**Navigate to the project directory**:
 
+```bash
 `cd atomic-blog`
+```
 
-## Install dependencies:
+**Install dependencies**:
 
-bash
-
+```bash
 `npm install`
+```
 
-## Running the Project
+**Running the Project**
 
 To start the development server and run the project locally, use the following command:
 
-bash
-
+```bash
 `npm start`
+```
 
 This will start the development server on http://localhost:3000. Open this URL in your web browser to view the application.
 
@@ -63,10 +63,12 @@ The page will reload when you make changes.
 You may also see any lint errors in the console.
 
 `npm test`
+
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
 
-`npm run build``
+`npm run build`
+
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
@@ -74,6 +76,7 @@ The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
 `npm run eject`
+
 If you aren’t satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
 
 ### Project Structure
@@ -90,4 +93,5 @@ This project is licensed under the ISC License. See the LICENSE file for details
 ## Author
 
 Olha Chernysh
-# atomic--blog
+
+# atomic-blog
